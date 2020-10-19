@@ -5,7 +5,7 @@ import javax.swing.*;
 public class SnakeGame extends JFrame {
 
     public void Snake(){
-        setTitle("Snake");
+        setTitle("Snake!!");
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setSize(320,345);
         setLocation(400,400);
