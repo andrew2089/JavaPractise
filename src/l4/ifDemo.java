@@ -1,9 +1,9 @@
 package l4;
 
-public class switchDemo {
+public class ifDemo {
     public static void main(String[] args) {
 
-        boolean hasDumplings = true;
+        boolean hasDumplings = false;
         boolean hasNoodeles = true;
 
 
