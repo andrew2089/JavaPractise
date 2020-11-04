@@ -1,8 +1,10 @@
 package l3;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class MathFunctionsDemo {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("x: ");
