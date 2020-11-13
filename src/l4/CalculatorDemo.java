@@ -11,5 +11,9 @@ public class CalculatorDemo {
         System.out.println("50 = " + calculator.isEven(50));
         System.out.println("23 = " + calculator.isEven(23));
         System.out.println("75 = " + calculator.isEven(75));
+        System.out.println("1 , 2 = " + calculator.maxOfTwoNumbers(1,2));
+        System.out.println("99 , 34 = " + calculator.maxOfTwoNumbers(99,34));
+        calculator.MinOfTwoNumbers();
+
     }
 }
